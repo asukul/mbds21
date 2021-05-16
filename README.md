@@ -24,7 +24,7 @@ Topics:
 
 Slides:
 MBDS21-T1-01 - Introduction to Data Science
-https://docs.google.com/presentation/d/1aME45GBR1rxftMW1R4dMhjP2YOHgMUyAtjNcYGelPEI/edit?usp=sharing
+https://docs.google.com/presentation/d/1aME45GBR1rxftMW1R4dMhjP2YOHgMUyAtjNcYGelPEI
 
 MBDS21-T1-02 - Foundational statistics that can be used to analyze data
 https://docs.google.com/presentation/d/1ibVD7JqrmjvvkWusk2VZ5LaYdP5kmIXOyb28FrtiRcg/edit?usp=sharing
