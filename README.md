@@ -47,4 +47,3 @@ https://docs.google.com/presentation/d/1NNUocs7hfpm2rkgIaXLhriv2wyDeV2llQY_JWH3d
 MBDS21-T1-08 - Machine Learning: Classification and Regression
 https://docs.google.com/presentation/d/10AA38Pe5y6PHa6QWTJjFLuSjbevkm3EV96QLFydv7s8/edit?usp=sharing
 
-Topics:
