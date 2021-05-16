@@ -27,23 +27,23 @@ MBDS21-T1-01 - Introduction to Data Science
 https://docs.google.com/presentation/d/1aME45GBR1rxftMW1R4dMhjP2YOHgMUyAtjNcYGelPEI
 
 MBDS21-T1-02 - Foundational statistics that can be used to analyze data
-https://docs.google.com/presentation/d/1ibVD7JqrmjvvkWusk2VZ5LaYdP5kmIXOyb28FrtiRcg/edit?usp=sharing
+https://docs.google.com/presentation/d/1ibVD7JqrmjvvkWusk2VZ5LaYdP5kmIXOyb28FrtiRcg
 
 MBDS21-T1-03–Python for Data Science
-https://docs.google.com/presentation/d/1d9NT9Lv5-dpmp7slwcNEyuuHv4_EN_6W0eh38eKiEEU/edit?usp=sharing
+https://docs.google.com/presentation/d/1d9NT9Lv5-dpmp7slwcNEyuuHv4_EN_6W0eh38eKiEEU
 
 MBDS21-T01-04 – Pandas Dataframe
-https://docs.google.com/presentation/d/1FXN4I3zsVOVu2twOx5U9W7L0LG8v01Ok0M2aEzAnnqY/edit?usp=sharing
+https://docs.google.com/presentation/d/1FXN4I3zsVOVu2twOx5U9W7L0LG8v01Ok0M2aEzAnnqY
 
 MBDS21-T1-05 – Cleaning and Manipulating Data with pandas
-https://docs.google.com/presentation/d/1dgSWRXTYpEdzFvysJs9PREWI_QqT4orS1NmU05ZZlXE/edit?usp=sharing
+https://docs.google.com/presentation/d/1dgSWRXTYpEdzFvysJs9PREWI_QqT4orS1NmU05ZZlXE
 
 MBDS21-T1-06 - Data Science Process
-https://docs.google.com/presentation/d/1tn0gKWNdOe-SqR-RfbLFi72sjY9MjDg2Ny6t0MOChWs/edit?usp=sharing
+https://docs.google.com/presentation/d/1tn0gKWNdOe-SqR-RfbLFi72sjY9MjDg2Ny6t0MOChWs
 
 MBDS21-T1-07– Introduction to Visualization with Bokeh
-https://docs.google.com/presentation/d/1NNUocs7hfpm2rkgIaXLhriv2wyDeV2llQY_JWH3dqFE/edit?usp=sharing
+https://docs.google.com/presentation/d/1NNUocs7hfpm2rkgIaXLhriv2wyDeV2llQY_JWH3dqFE
 
 MBDS21-T1-08 - Machine Learning: Classification and Regression
-https://docs.google.com/presentation/d/10AA38Pe5y6PHa6QWTJjFLuSjbevkm3EV96QLFydv7s8/edit?usp=sharing
+https://docs.google.com/presentation/d/10AA38Pe5y6PHa6QWTJjFLuSjbevkm3EV96QLFydv7s8
 
