@@ -21,7 +21,6 @@ Topics:
   (this will covered in Wednesday’s session)
 
 
-
 Slides:
 MBDS21-T1-01 - Introduction to Data Science
 https://docs.google.com/presentation/d/1aME45GBR1rxftMW1R4dMhjP2YOHgMUyAtjNcYGelPEI
@@ -44,6 +43,34 @@ https://docs.google.com/presentation/d/1tn0gKWNdOe-SqR-RfbLFi72sjY9MjDg2Ny6t0MOC
 MBDS21-T1-07– Introduction to Visualization with Bokeh
 https://docs.google.com/presentation/d/1NNUocs7hfpm2rkgIaXLhriv2wyDeV2llQY_JWH3dqFE
 
-MBDS21-T1-08 - Machine Learning: Classification and Regression
+
+Tutorial 2:
+Practical Data Science and Machine Learning on the Cloud
+Topics:
+1. Introduction to machine learning in the cloud.
+   Task 1: Classification 
+2. Building machine learning models with AI Platform: TensorFlow, AI Platform, and the ML workflow
+AutoML.
+    Task 2: Quiklabs quest: Baseline: Data, ML, AI https://google.qwiklabs.com/quests/34
+3. Google's pre-trained machine learning APIs: Vision API, Text-to-Speech API, Speech-to-Text API, Cloud Translation API, Cloud Natural Language API, and Video Intelligence API
+Perform Foundational Data, ML, and AI Tasks
+
+Software: We are going to use Google Cloud Platform in this session.
+
+Software requirement:
+If you are affiliate with academic, and having .edu email:
+
+Join the GoogleCloudReady program: Link to the form - https://goo.gle/us-gcrf-site
+enroll in the program with your edu email address. Choose Iowa State University as a "facilitator's institution".
+If you do not have the .edu email address: 
+
+Create a free trial on Google Cloud with your Gmail account. https://cloud.google.com/
+
+
+
+MBDS21-T2-01 - Machine Learning: Classification and Regression
 https://docs.google.com/presentation/d/10AA38Pe5y6PHa6QWTJjFLuSjbevkm3EV96QLFydv7s8
 
+
+MBDS21 - Google Cloud: Let Machines Do the Work
+https://docs.google.com/presentation/d/1tONRX6gR_t-Cs2_UgOE7llXhr1FA6qYjNWBG5sfAbmI
