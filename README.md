@@ -56,10 +56,11 @@ Topics:
    
 2. Building machine learning models with AI Platform: TensorFlow, AI Platform, and the ML workflow
 AutoML.
-    Task 2: Quiklabs quest: Baseline: Data, ML, AI https://google.qwiklabs.com/quests/34
+    Task 2: Try Quiklabs quest "Baseline: Data, ML, AI" https://google.qwiklabs.com/quests/34
 
 3. Google's pre-trained machine learning APIs: Vision API, Text-to-Speech API, Speech-to-Text API, Cloud Translation API, Cloud Natural Language API, and Video Intelligence API
 Perform Foundational Data, ML, and AI Tasks
+    Task 3: Qwiklabs lab "Video Intelligence: Qwik Start" https://google.qwiklabs.com/focuses/603
 
 Software: We are going to use Google Cloud Platform in this session.
 
@@ -82,6 +83,7 @@ Note: Prior instructions incorrectly asked students to log into Qwiklabs before 
 If you do not have the .edu email address: 
 Create a free trial on Google Cloud with your Gmail account. https://cloud.google.com/
 
+Slides:
 
 MBDS21-T2-01 - Machine Learning: Classification and Regression
 https://docs.google.com/presentation/d/10AA38Pe5y6PHa6QWTJjFLuSjbevkm3EV96QLFydv7s8
