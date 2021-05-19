@@ -60,7 +60,7 @@ AutoML.
 
 3. Google's pre-trained machine learning APIs: Vision API, Text-to-Speech API, Speech-to-Text API, Cloud Translation API, Cloud Natural Language API, and Video Intelligence API
 Perform Foundational Data, ML, and AI Tasks
-    Task 3: Qwiklabs lab "Video Intelligence: Qwik Start" https://google.qwiklabs.com/focuses/603
+    Task 3: Qwiklabs lab "Video Intelligence: Qwik Start" https://google.qwiklabs.com/focuses/603?parent=catalog
 
 Software: We are going to use Google Cloud Platform in this session.
 
