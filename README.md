@@ -48,7 +48,9 @@ Tutorial 2:
 Practical Data Science and Machine Learning on the Cloud
 Topics:
 1. Introduction to machine learning in the cloud.
-   Task 1: Classification 
+   Task 1: Classification
+   Task 2: Regression sample
+   Task 3:
 2. Building machine learning models with AI Platform: TensorFlow, AI Platform, and the ML workflow
 AutoML.
     Task 2: Quiklabs quest: Baseline: Data, ML, AI https://google.qwiklabs.com/quests/34
