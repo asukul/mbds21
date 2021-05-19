@@ -44,7 +44,10 @@ MBDS21-T1-07– Introduction to Visualization with Bokeh
 https://docs.google.com/presentation/d/1NNUocs7hfpm2rkgIaXLhriv2wyDeV2llQY_JWH3dqFE
 
 
+
+===================================================================================
 Tutorial 2:
+
 Practical Data Science and Machine Learning on the Cloud
 Topics:
 1. Introduction to machine learning in the cloud.
