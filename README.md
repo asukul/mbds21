@@ -51,12 +51,13 @@ Tutorial 2:
 Practical Data Science and Machine Learning on the Cloud
 Topics:
 1. Introduction to machine learning in the cloud.
-   Task 1: Classification
+   Task 1: Classification sample: https://github.com/asukul/mbds21/blob/main/Intro_to_Machine_learning_Classifier_Iris_KNN.ipynb
    Task 2: Regression sample
-   Task 3:
+   
 2. Building machine learning models with AI Platform: TensorFlow, AI Platform, and the ML workflow
 AutoML.
     Task 2: Quiklabs quest: Baseline: Data, ML, AI https://google.qwiklabs.com/quests/34
+
 3. Google's pre-trained machine learning APIs: Vision API, Text-to-Speech API, Speech-to-Text API, Cloud Translation API, Cloud Natural Language API, and Video Intelligence API
 Perform Foundational Data, ML, and AI Tasks
 
