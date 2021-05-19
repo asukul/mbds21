@@ -68,10 +68,12 @@ If you are affiliate with academic, and having .edu email:
 
 Join the GoogleCloudReady program: Link to the form - https://goo.gle/us-gcrf-site
 enroll in the program with your edu email address. Choose Iowa State University as a "facilitator's institution".
+Signup for Qwiklabs with your edu email. 
+Then go through this first lab "A Tour of Qwiklabs and Google Cloud" https://google.qwiklabs.com/focuses/2794 to get a one month qwiklabs credit.
+
+
 If you do not have the .edu email address: 
-
 Create a free trial on Google Cloud with your Gmail account. https://cloud.google.com/
-
 
 
 MBDS21-T2-01 - Machine Learning: Classification and Regression
