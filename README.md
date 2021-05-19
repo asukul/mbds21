@@ -70,6 +70,14 @@ Join the GoogleCloudReady program: Link to the form - https://goo.gle/us-gcrf-si
 enroll in the program with your edu email address. Choose Iowa State University as a "facilitator's institution".
 Signup for Qwiklabs with your edu email. 
 Then go through this first lab "A Tour of Qwiklabs and Google Cloud" https://google.qwiklabs.com/focuses/2794 to get a one month qwiklabs credit.
+Instructions to get a free 1 month subscription
+- Open an incognito window. 
+Note: Prior instructions incorrectly asked students to log into Qwiklabs before clicking the link below. This is incorrect and they should click the link below before logging into Qwiklabs to ensure they get their subscription. 
+- Go to https://goo.gle/us-gcrfp-stu-credits-unique and sign into Qwiklabs.
+- Complete the "A Tour of Qwiklabs and Google Cloud" lab. (Spend at least 5 minutes, though taking the full tour is very helpful!)
+- Be sure to hit the "end lab" button.
+- Note: you can verify that you've received a "monthly subscription" under your profile at the top right corner.
+
 
 
 If you do not have the .edu email address: 
